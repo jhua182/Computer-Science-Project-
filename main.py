@@ -1,3 +1,4 @@
+### If learning wrong, re-run the program. Thanks! 
 import tkinter as tk
 from Emailaddress import Email
 from neuralNetwork import NeuralNetwork
